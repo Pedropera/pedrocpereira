@@ -1,0 +1,48 @@
+html{
+    margin: auto;
+    padding: 0;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+body{
+    margin: auto;
+    padding: 0;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+#name{
+    margin: auto;
+    text-align: center;
+}
+
+#navbar{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navitem{
+    display: inline;
+}
+
+#content{
+    max-width: 50%;
+}
+
+footer{
+    display: inline-table;
+    position: fixed;
+    bottom: 0;
+    margin: auto;
+    padding: auto;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+}
+
+#rights{
+    display: flex;
+    justify-content: center;
+}
