@@ -31,6 +31,12 @@ body{
     max-width: 50%;
 }
 
+#shaun{
+    display: flex;
+    margin: auto;
+    max-width: 50px;
+}
+
 footer{
     display: inline-table;
     position: fixed;
